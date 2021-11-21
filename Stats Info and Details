@@ -1,0 +1,50 @@
+[User] = []
+
+[Mortal Name] = []
+[God Name] = []
+
+[Gender] = []
+[Age] = []
+[Status] = []
+[Alignment] = []
+[Tokens] = []
+
+[Power Level] = []
+
+[Health Max] = []
+[Ki Max] = []
+[God Ki Max] = []
+
+[Strength] = []
+[Melee Damage] = []
+
+[Ki Damage] = []
+[God Ki Damage] = []
+
+[Melee Resistance] = []
+[Ki Resistance] = []
+[Speed Resistance] = []
+
+[Health Recovery] = []
+[Ki Recovery] = []
+[Stamina Recovery] = [] 
+
+[Stamina Control] = [] --how well you can control your stamina and reduce its drain
+[Energy Control] = [] --this allows you to control your energy in many ways either making it move in diffrent directions or making it sharper to pierce things
+
+[Fly Speed] = [] --this is how fast you can fly
+[Base Speed] = [] --This is your Overall speed for walking running and movement skills
+
+[Omnipotence Timer] = [] --Speaks For its Self
+[Potency Timer] = [] --Speaks For its Self
+[Magical Eye Timer] = [] --Speaks For its Self
+
+[OmniPotentence Ki Max] = [] --how much OmniPotence you have based on %
+[OmniPotentence Output] = [] --how much OmniPotence you can Output based on %
+[OmniPotentence Drain] = [] --How much OmniPotence Drain you have based on %
+[OmniPotentence Resistance] = [] --How much Resistance you have to OmniPotence
+
+
+[Boosted Stats] = []
+[Boosted Stats] = [] --Boosted Stats are stats that train faster than others
+[Boosted Stats] = []
