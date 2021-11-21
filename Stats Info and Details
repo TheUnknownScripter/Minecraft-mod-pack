@@ -25,9 +25,9 @@
 [Ki Resistance] = []
 [Speed Resistance] = []
 
-[Health Recovery] = []
-[Ki Recovery] = []
-[Stamina Recovery] = [] 
+[Health Recovery] = [] --How much health you can recover
+[Ki Recovery] = [] --how much ki you can recover
+[Stamina Recovery] = [] --how much stamina you can recover
 
 [Stamina Control] = [] --how well you can control your stamina and reduce its drain
 [Energy Control] = [] --this allows you to control your energy in many ways either making it move in diffrent directions or making it sharper to pierce things
