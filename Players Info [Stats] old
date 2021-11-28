@@ -47,43 +47,43 @@ Boosted Potential = Stamina Recovery/Energy Control/God Ki Max
 [User = BicolorWriter]
 [Mortal Name = Marcel]
 [God Name = Sun Szu]
-[Age = 27]
+[Age = 35]
 [Status = Mortal]
 [Alignment = Good]
-[Token] = [8]
+[Token] = [20]
 
-[Power Level = 20 Million]
+[Power Level = 392 Undecillion]
 
-[Health Max = 18 Million]
-[Ki Max = 19 Million]
+[Health Max = 320 Undecillion]
+[Ki Max = 328 Undecillion]
 [God Ki Max = 0]
 [Omnipotence Ki Max = 0]
 
-[Strength = 18 Million]
-[Melee Damage = 18 Million]
+[Strength = 320 Undecillion]
+[Melee Damage = 320 Undecillion]
 [Omnipotence Physical Power = 0]
 
-[Ki Damage = 19 Million]
+[Ki Damage = 328 Undecillion]
 [God Ki Damage = 0]
 [Omnipotence Ki Power = 0]
 
-[Melee Resistance = 18 Million]
-[Ki Resistance = 18 Million]
-[Speed Resistance = 18 Million]
-[Omnipotence Resistance = 78]
+[Melee Resistance = 320 Undecillion]
+[Ki Resistance = 320 Undecillion]
+[Speed Resistance = 320 Undecillion]
+[Omnipotence Resistance = 12,000]
 
-[Health Recovery = 18 Million]
-[Ki Recovery = 19 Million]
-[Stamina Recovery = 18 Million]
+[Health Recovery = 320 Undecillion]
+[Ki Recovery = 328 Undecillion]
+[Stamina Recovery = 320 Undecillion]
 
-[Stamina Control = 18 Million]
-[Energy Control = 18 Million]
+[Stamina Control = 320 Undecillion]
+[Energy Control = 320 Undecillion]
 
-[Speed = 18 Million]
+[Speed = 320 Undecillion]
 
 [Omnipotence Timer = 0 secs]
 [Potency Timer = 0 secs]
-[Magical Eye Timer = 2 minutes]
+[Magical Eye Timer = 5 minutes]
 
 Boosted Potential = Ki Max/Ki Recovery/Ki Damage
 
@@ -119,40 +119,40 @@ Abilitys
 [Age = 22]
 [Status = ???]
 [Alignment = ??]
-[Token] = [34]
+[Token] = [54]
 
-[Power Level = 330 Octillion]
+[Power Level = 130 Quindecillion]
 
-[Health Max = 332 Octillion]
-[Ki Max = 335 Octillion]
-[God Ki Max = 332 Octillion]
-[Omnipotence Ki Max = 8800]
+[Health Max = 132 Quindecillion]
+[Ki Max = 135 Quindecillion]
+[God Ki Max = 132 Quindecillion]
+[Omnipotence Ki Max = 18800]
 
-[Strength = 332 Octillion]
-[Melee Damage = 332 Octillion]
-[Omnipotence Physical Power = 8000]
+[Strength = 132 Quindecillion]
+[Melee Damage = 132 Quindecillion]
+[Omnipotence Physical Power = 18000]
 
-[Ki Damage = 332 Octillion]
-[God Ki Damage = 332 Octillion]
-[Omnipotence Ki Power = 8000]
+[Ki Damage = 132 Quindecillion]
+[God Ki Damage = 132 Quindecillion]
+[Omnipotence Ki Power = 18000]
 
-[Melee Resistance = 332 Octillion]
-[Ki Resistance = 332 Octillion]
-[Speed Resistance = 332 Octillion]
-[Omnipotence Resistance = 200,000]
+[Melee Resistance = 132 Quindecillion]
+[Ki Resistance = 132 Quindecillion]
+[Speed Resistance = 132 Quindecillion]
+[Omnipotence Resistance = 1,200,000]
 
-[Health Recovery = 332 Octillion]
-[Ki Recovery = 332 Octillion]
-[Stamina Recovery = 335 Octillion]
+[Health Recovery = 132 Quindecillion]
+[Ki Recovery = 132 Quindecillion]
+[Stamina Recovery = 135 Quindecillion]
 
-[Stamina Control = 332 Octillion]
-[Energy Control = 335 Octillion]
+[Stamina Control = 132 Quindecillion]
+[Energy Control = 135 Quindecillion]
 
-[Speed = 332 Octillion]
+[Speed = 132 Quindecillion]
 
-[Omnipotence Timer = 2 secs]
+[Omnipotence Timer = 10 secs]
 [Potency Timer = 0 secs]
-[Magical Eye Timer = 3 Minutes]
+[Magical Eye Timer = 5 Minutes]
 
 Boosted Potential = Stamina Recovery/Energy Control/Ki Max
 ```
@@ -208,7 +208,7 @@ Name = Grim
 Age = ??????????
 Status = True God
 Alignment = Neutral
-[Token] = [34]
+[Token] = [68]
 
 Power Level = Ĭ̸̢̡̧̛̛̯͖͙̰̪̠͓͕̩͇͇̤̳̞͔̤̀́̌̅͐̎́͆̽̈͂̊̅̃̀͑͂̈́̔̽̅̂̾̍͛̍́̍͛͛̏̇̽͌̆̋̂̈́̈́́̃̽̌̕̕̕̚̕̚̕͝͠͝ņ̴̢̢̢̢̡̦̥̼̯̜̰̮̬͚͍̪̭̺̩̥̮̞̮̤̫̱̺̭͙̘̩̖̝͍̻̭̥̗̦͉̻̘̹̤̹͓̮̻͔̖̰̹̗̪̭̩̦̠̱̭̭͖̲͚͎̓̃̏̐̾̿͐́̋͑̈́̑͒̏̇͂͐̀͛͆̄̐͛͌̅̈́̆̂̅̍͑̕̕͜͜͠͝͝ͅͅḟ̶̡̨̡̨̨̧̢̨̡̨̛̛̪̟͕̠̲̦̥̖̥̼̞͕̥͍̺̥̩͇͕̻͍̹̹̪̬͉̦͚͎̞͙̩̟͕̫̮̞̻͔̲͕̘̻̜͕̖̗͍̞̝͔͙̺̖̥͈͔̰̝̖̱̣̖̠̫͉̜͖̻̻̘̤̬̤̩̖̬̪̫͖̤̰̦̜̗̬̲̺͇̯̗̗̼͕̍̌̈̊͋̽̏̈́̇̌̉͐̊͑͂̍̍͐̑̊̀̅̿̓̇͛͌̊͗͐̈́̆͒͆̈̋͛̀̆̈̎̃̓͋͆̓̂̀̏͌̔̈͂̑̅̔͌͑̀̐̄̌̋͋͌̆̔̐̓͌͛̈́̓̀̎͋̒̄̍̈́̇͌̑͗͑̅̈̈́̒͋̓͘͘̕̚̕̕͘͘̕̚͘͜͜͜͜͝͠ͅͅͅͅͅͅį̶̡̢̧̡̨̨̨̧̧̧̨̧̧̛̭̤̲̪̲̠̦̖̖̠̰͍͈̪̪̗̪̞͍̝̗̰͓͕͍̦̜̜͎͍̱̼̪̘̣̗͉͓͖̮̲̞̣̩̯̘̼̺̺̯̘̥̙͔̝̥̱͓̥͇̣̫̮̣̖̺̪͚̮̭̖͓̻̘̩̜̼̗̣̪̟̰̺̪̻̻͕̟̬̫̣̙͈͔̞̙̝̣͇͍͓̥̳͉̩̪̖͓̙̭̦̬͔͉̻̥̭̝̭̯̻̫͓̟͙̟̹̻͚̠̙̼̬̬̲̖̰̱̙̤̩͖͔̤̺̝͎̥̘͙͓͔̝̤͇̻̖͔̙̺̤̮̤͙̞̲͚̻̜̤̲̤͇̫̰̥̰͕̼̼̯̳͉̰͍̻͓̳̱͈̪͍̞̍̀̿̀̎͌̔̏̉̆͑̀̉̋̿̂̑̉̍̔̔́͗͛͛̈́̔͂͑͒̾̀͆̀̾̀̔̀͊̍̑͌͐͐́̂͊͒̇͌͒͐̐͑̏̅̀̓͋̂̌͗̈́̎̈́̎̿̏́̃͗̒͋̈́̑̽͗̆́̚͘̕̕͜͜͜͜͜͠͝͠͠͠͝ͅͅͅͅn̸̡̨̨̨̡̛̛̦̘̖̞̯̘͓̞̰̗̰̯̳̹̹͖̭̣̘͙͍̠̥̺̰̻̳̰͚̠̮̖̭̺̝̙̤̻̩̱̹̙̱͎̟̲̳͕͙͇̞̈́͂͛̑̈̈́̏̾̆̾̅̌̃̂͋̅́̃̔̅̅̌͋̒̊̄̄̒́͐͗͋̒̊̄̇́͒͆̅̒̎̌͂̀͑͒͒́̌̔̊́̌̿̃̄͛͌̒̍͂͒̃̅̒̐̈́̏̈̑͗̐̉͊́̌̑̎̄̓́̃́̎͑̃͗͋̌͋̐͆̅̾̏̓̑̌̍̈́̿͑̄̌̃̎̌̈́̓̓̈̚̕̕̕̚͘̕̕͘͘̚͝͝͝͠͠͝͝͝͠͝͝ͅi̵̡̛̛̛̮͖̘͔͋͂̑̈́͆̅̏͌̾̀́̓̔̀̂̑̀͂̐͊͛̂̋̂̋̈͗͛̆̉̏̌̑̏̔̇͊̎̓̀͑͑̒́̋͆̎̂͊̈́̈̈͛̔̊̃́̎͐͊̆̀̐͌̌͆̂̀̉͆͊͐͒͗̽͊̑͑̉̽͐́̐́̽́̈̔̀̽̋̃̔̂͆͆͌͆̎̌̄͌̍͗͌̎͑͐͆̒̉̋̐́̆̅̏̉́͐̈́́̿͒̅̉̓͂͐̊͆̾͑͋͐̋́̈̍͘̚̚͘͘͘̕͘̚͘͘͝͠͠͝͠͝͝͝͝t̶̨̨̛̛̛̛̺̺͚̙͙̼̼̳̜͎̙̖̹̞̖̄̽͛͋̆̌́̊͊̾̍̂̀͛̀͂̿̔̂͗̊̍̽͗̌̔̀͐͒͐̇̄͑͂̆̂̑̅̉̔͐͑̿̅̀͋̄̿̾̀̍̇̓̑̐͒̓͊̌̈̆̾̓͂̉̈́̂͂̄̋̅̔̉̀͑͒̓̔̀̿͆̓̈́̅̀͂̉̈́͊̈́̄̓͗̊́͂͂̾́͑̔͛́͒͐̀͒̌͐͋̓̾̽͌͛̎̍̃̄̒̇̅͋́̄̇̋̑͒̏̓̆̂́̀͐͂̃̒̉͒̄͑͋͋͂̄̾́́̒͛͂͗̓̾̅͗̎̓̋̓̈́͘͘̚̕̕̕͝͠͝͝͠͝͝͝͝͝͠͝e̷̢̨̨̨̧̧̢̢̧̨̧̡̡̧̧̢̢̛̛̛̛̛͇͓͉͇͖̦̤̳͓̣̫̳̺̪͓̯͉̝̻̹̺̯̼̞͕̙̯͙̼̱̮̠̞̖̠͙̖̼̦̼̪͚̲͓͇̰̪̗͕͓̮̰̰̦͎̳̟̦̘͍̜̳̺̗͇̭̥̘̱̩̠̳̝̼͍̮̲̖̣͚̟͈̟̘̣̞̮̟̗̮͓̤̯̜͙̯̲̝̜̻̰̬͈̙̭̒̿̄̅̊͋̊̀̓́͆̈́̑̏̎̈́̄̂̊͂͛̈́̍͗͋͐̄̅̋͆̿̃̉͊͑̋͗͆̄̐͊̓̿͗̽̎͒̾͂͒͊̃̓̾͂̃̓̍̃̊͂̊̈̈͂͗͊͒͐̓́̊̅̑͛̐́̾͗̏̈́̅͐̎͒̌̔̔̇̎̾͗̓̈͋͂͆̾͐̓̉̀̒̓̔̈́̔͗͛̈͛͋̒̆͌͑̅̃̃̐̅̀̑̽͋͌̈́͐͒̐͊̈́͗̈́̆̒̍̆̐͂̈́̽̈̀̓͂͂͋̀̈̀̆̉͆́̽͌́̏̄̄̆̐̓͒̎̍̑̒̇͑͒̋͌̀͒̏̎̾̃͑͋̓̈́̐͘͘͘͘͘̚̕̚͘̚̕̚̕̚̚̕͘͜͜͠͝͝͝͠͝͠͝͝͝͝͠͝͠͝͝ͅ
 ```
@@ -267,43 +267,43 @@ Boosted Potential = Melee Damage/Strength/Stamina Recovery
 [Alignment = Neutral]
 [Token] = [38]
 
-[Power Level = 820 Quintrillion]
+[Power Level = 820 Septillion]
 
-[Health Max = 800 Quintillion]
-[Ki Max = 800 Quintillion]
-[God Ki Max = 800 Quintillion]
+[Health Max = 800 Septillion]
+[Ki Max = 800 Septillion]
+[God Ki Max = 800 Septillion]
 [Omnipotence Ki Max = 0]
 
-[Strength = 800 Quintillion]
-[Melee Damage = 810 Quintrillion]
+[Strength = 800 Septillion]
+[Melee Damage = 810 Septillion]
 [Omnipotence Physical Power = 0]
 
-[Ki Damage = 810 Quintrillion]
-[God Ki Damage = 800 Quintillion]
+[Ki Damage = 810 Septillion]
+[God Ki Damage = 800 Septillion]
 [Omnipotence Ki Power = 0]
 
-[Melee Resistance = 800 Quintillion]
-[Ki Resistance = 800 Quintillion]
-[Speed Resistance = 800 Quintillion]
+[Melee Resistance = 800 Septillion]
+[Ki Resistance = 800 Septillion]
+[Speed Resistance = 800 Septillion]
 [Omnipotence Resistance = 820]
 
-[Health Recovery = 800 Quintillion]
-[Ki Recovery = 800 Quintillion]
-[Stamina Recovery = 810 Quintrillion]
+[Health Recovery = 800 Septillion]
+[Ki Recovery = 800 Septillion]
+[Stamina Recovery = 810 Septillion]
 
-[Stamina Control = 800 Quintillion]
-[Energy Control = 800 Quintillion]
+[Stamina Control = 800 Septillion]
+[Energy Control = 800 Septillion]
 
-[Speed = 800 Quintillion]
+[Speed = 800 Septillion]
 
 [Omnipotence Timer = 0 secs]
 [Potency Timer = 0 secs]
 [Magical Eye Timer = 20 Minutes]
 
-[LOVE:11]
-[HP:63]
-[DF:62]
-[ATK:62]
+[LOVE:37]
+[HP:333]
+[DF:262]
+[ATK:262]
 
 Boosted Potential = Melee Damage/Ki Damage/Stamina Recovery
 ```
@@ -315,40 +315,40 @@ Boosted Potential = Melee Damage/Ki Damage/Stamina Recovery
 [Age = 22]
 [Status = Mortal/God Slayer in Training]
 [Alignment = Good]
-[Token] = [34]
+[Token] = [54]
 
-[Power Level = 480 Octillion]
+[Power Level = 480 Quindecillion]
 
-[Health Max = 440 Octillion]
-[Ki Max = 440 Octillion]
-[God Ki Max = N/A]
-[Omnipotence Ki Max = N/A]
+[Health Max = 440 Quindecillion]
+[Ki Max = 440 Quindecillion]
+[God Ki Max = 0]
+[Omnipotence Ki Max = 0]
 
-[Strength = 440 Octillion]
-[Melee Damage = 440 Octillion]
-[Omnipotence Physical Power = N/A]
+[Strength = 440 Quindecillion]
+[Melee Damage = 440 Quindecillion]
+[Omnipotence Physical Power = 0]
 
-[Ki Damage = 440 Octillion]
-[God Ki Damage = N/A]
-[Omnipotence Ki Power = N/A]
+[Ki Damage = 440 Quindecillion]
+[God Ki Damage = 0]
+[Omnipotence Ki Power = 0]
 
-[Melee Resistance = 440 Octillion]
-[Ki Resistance = 440 Octillion]
-[Speed Resistance = 440 Octillion]
+[Melee Resistance = 440 Quindecillion]
+[Ki Resistance = 440 Quindecillion]
+[Speed Resistance = 440 Quindecillion]
 [Omnipotence Resistance = 280,000]
 
-[Health Recovery = 460 Octillion]
-[Ki Recovery = 460 Octillion]
-[Stamina Recovery = 440 Octillion]
+[Health Recovery = 460 Quindecillion]
+[Ki Recovery = 460 Quindecillion]
+[Stamina Recovery = 440 Quindecillion]
 
-[Stamina Control = 440 Octillion]
-[Energy Control = 440 Octillion]
+[Stamina Control = 440 Quindecillion]
+[Energy Control = 440 Quindecillion]
 
-[Speed = 460 Octillion]
+[Speed = 460 Quindecillion]
 
 [Omnipotence Timer = N/A]
 [Potency Timer = N/A]
-[Magical Eye Timer = 4 Minutes]
+[Magical Eye Timer = 5 Minutes]
 
 Boosted Potential = Health Recovery/Ki Recovery/Speed
 ```
@@ -360,40 +360,84 @@ Boosted Potential = Health Recovery/Ki Recovery/Speed
 [Age = 25?]
 [Status = God of Destructive Combat]
 [Alignment = Neutral]
-[Token] = [27]
+[Token] = [68]
 
-[Power Level = 980 Tredecillion]
+[Power Level = 980 Quindecillion]
 
-[Health Max = 920 Tredecillion]
-[Ki Max = 920 Tredecillion]
-[God Ki Max = 920 Tredecillion]
-[Omnipotence Ki Max = 3,200,000]
+[Health Max = 920 Quindecillion]
+[Ki Max = 920 Quindecillion]
+[God Ki Max = 920 Quindecillion]
+[Omnipotence Ki Max = 52,200,000]
 
-[Strength = 920 Tredecillion]
-[Melee Damage = 950 Tredecillion]
-[Omnipotence Physical Power = 3,120,000]
+[Strength = 920 Quindecillion]
+[Melee Damage = 950 Quindecillion]
+[Omnipotence Physical Power = 52,120,000]
 
-[Ki Damage = 950 Tredecillion]
-[God Ki Damage = 920 Tredecillion]
-[Omnipotence Ki Power = 3,120,000]
+[Ki Damage = 950 Quindecillion]
+[God Ki Damage = 920 Quindecillion]
+[Omnipotence Ki Power = 52,120,000]
 
-[Melee Resistance = 920 Tredecillion]
-[Ki Resistance = 920 Tredecillion]
-[Speed Resistance = 920 Tredecillion]
-[Omnipotence Resistance =1,120,000]
+[Melee Resistance = 920 Quindecillion]
+[Ki Resistance = 920 Quindecillion]
+[Speed Resistance = 920 Quindecillion]
+[Omnipotence Resistance =52,180,000]
 
-[Health Recovery = 920 Tredecillion]
-[Ki Recovery = 950 Tredecillion]
-[Stamina Recovery = 920 Tredecillion]
+[Health Recovery = 920 Quindecillion]
+[Ki Recovery = 950 Quindecillion]
+[Stamina Recovery = 920 Quindecillion]
 
-[Stamina Control = 920 Tredecillion]
-[Energy Control = 920 Tredecillion]
+[Stamina Control = 920 Quindecillion]
+[Energy Control = 920 Quindecillion]
 
-[Speed = 920 Tredecillion]
+[Speed = 920 Quindecillion]
 
-[Omnipotence Timer = 1 Minute]
+[Omnipotence Timer = 5 Minute]
 [Potency Timer = 0]
-[Magical Eye Timer = 1 Hour]
+[Magical Eye Timer = 2 Hour]
 
 Boosted Potential = Ki Damage/Melee Damage/Ki Recovery
+```
+```
+[User = jdc2001prime]
+[Mortal Name = Noah]
+[God Name = Prime]
+[Age = 25?]
+[Status = God of Elements]
+[Alignment = Good]
+[Token] = [54]
+
+[Power Level = 980 Octodecillion]
+
+[Health Max = 920 Octodecillion]
+[Ki Max = 960 Octodecillion]
+[God Ki Max = 920 Octodecillion]
+[Omnipotence Ki Max = 1,200,000]
+
+[Strength = 920 Octodecillion]
+[Melee Damage = 960 Octodecillion]
+[Omnipotence Physical Power = 1,120,000]
+
+[Ki Damage = 920 Octodecillion]
+[God Ki Damage = 920 Octodecillion]
+[Omnipotence Ki Power = 1,120,000]
+
+[Melee Resistance = 900 Octodecillion]
+[Ki Resistance = 900 Octodecillion]
+[Speed Resistance = 900 Octodecillion]
+[Omnipotence Resistance = 820,000]
+
+[Health Recovery = 920 Octodecillion]
+[Ki Recovery = 920 Octodecillion]
+[Stamina Recovery = 960 Octodecillion]
+
+[Stamina Control = 920 Octodecillion]
+[Energy Control = 920 Octodecillion]
+
+[Speed = 900 Octodecillion]
+
+[Omnipotence Timer = 6 Minutes]
+[Potency Timer = N/A]
+[Magical Eye Timer = 1 Hour]
+
+Boosted Potential = Ki Max/Stamina Recovery/Melee Damage
 ```
