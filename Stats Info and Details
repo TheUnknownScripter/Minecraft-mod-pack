@@ -1,29 +1,29 @@
-[User] = []
+[User] = [] --The Real player begin the character
 
-[Mortal Name] = []
-[God Name] = []
+[Mortal Name] = [] --Mortal name
+[God Name] = [] --God Name
 
-[Gender] = []
-[Age] = []
-[Status] = []
-[Alignment] = []
-[Tokens] = []
+[Gender] = [] --There gender
+[Age] = [] --How old the character is
+[Status] = [] --if they are mortal or god or demni god or what there know for
+[Alignment] = [] --wether they are good or bad
+[Tokens] = [] --in game tokens they can spend on multipliers
 
-[Power Level] = []
+[Power Level] = [] --The persons power in total
 
-[Health Max] = []
-[Ki Max] = []
-[God Ki Max] = []
+[Health Max] = [] --How much HP they have
+[Ki Max] = [] --How much Ki they can store
+[God Ki Max] = [] --How much God Ki they can store
 
-[Strength] = []
-[Melee Damage] = []
+[Strength] = [] --Do you even lift bro
+[Melee Damage] = [] --How much melee damage they do
 
-[Ki Damage] = []
-[God Ki Damage] = []
+[Ki Damage] = [] --How much ki damage you do
+[God Ki Damage] = [] --God Ki is 2x stronger than base Ki and has special boosters with it
 
-[Melee Resistance] = []
-[Ki Resistance] = []
-[Speed Resistance] = []
+[Melee Resistance] = [] --How much melee resistance for physical attacks
+[Ki Resistance] = [] --How much ki resistance the user has
+[Speed Resistance] = [] --This is the users resistance to speed attacks
 
 [Health Recovery] = [] --How much health you can recover
 [Ki Recovery] = [] --how much ki you can recover
