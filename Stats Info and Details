@@ -13,6 +13,7 @@
 
 [Health Max] = [] --How much HP they have
 [Ki Max] = [] --How much Ki they can store
+[Max Stamina] = [] --How much stamina someone has
 [God Ki Max] = [] --How much God Ki they can store
 
 [Strength] = [] --Do you even lift bro
