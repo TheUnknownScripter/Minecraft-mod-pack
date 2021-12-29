@@ -1,13 +1,15 @@
 [User] = [REDACTED]
 
 [Mortal Name] = [Rai] 
-[God Name] = [Raijin] 
+[God Name] = [Raijin]
+
+[Magical Eye Name] = [Cursed Reality]
 
 [Gender] = [Male]
 [Age] = [13]
 [Status] = [Mortal]
 [Alignment] = [Neutral]
-[Bloodline] = [] [] []
+[Bloodline] = [Eternal] [Saiyan]
 [Tokens] = [0]
 
 [Power Level] = [5]
@@ -57,6 +59,8 @@
 
 [Mortal Name] = [Josh] 
 [God Name] = [Astel] 
+
+[Magical Eye Name] = [Worlds Eye]
 
 [Gender] = [Male]
 [Age] = [14]
@@ -111,7 +115,9 @@
 [User] = [BicolorWriter]
 
 [Mortal Name] = [Marcel] 
-[God Name] = [Sun szu] 
+[God Name] = [Sun szu]
+
+[Magical Eye Name] = []
 
 [Gender] = [Male]
 [Age] = [14]
@@ -157,27 +163,29 @@
 [OmniPotentence Resistance] = [3] 
 
 
-[Boosted Stats] = []
-[Boosted Stats] = []
-[Boosted Stats] = []
+[Boosted Stats] = [Strength]
+[Boosted Stats] = [Ki Control]
+[Boosted Stats] = [Health Recovery]
 
 ---------------------------------------------------------
 
-[User] = []
+[User] = [jdc2001prime]
 
-[Mortal Name] = [] 
-[God Name] = [] 
+[Mortal Name] = [Noah] 
+[God Name] = [Avalon Prime]
 
-[Gender] = []
-[Age] = []
-[Status] = []
-[Alignment] = []
-[Bloodline] = [] [] []
+[Magical Eye Name] = [Divinity]
+
+[Gender] = [Male]
+[Age] = [14]
+[Status] = [Mortal]
+[Alignment] = [Good]
+[Bloodline] = [Angel] [Special Human]
 [Tokens] = [0]
 
 [Power Level] = [5]
 
-[Health Max] = [3]
+[Health Max] = [4]
 [Ki Max] = [3]
 [Max Stamina] = [3]
 [God Ki Max] = [N/A]
@@ -196,8 +204,8 @@
 [Ki Recovery] = [3]
 [Stamina Recovery] = [3] 
 
-[Stamina Control] = [3]
-[Energy Control] = [3] 
+[Stamina Control] = [4]
+[Energy Control] = [4] 
 
 [Fly Speed] = [3]
 [Base Speed] = [3]
@@ -212,6 +220,6 @@
 [OmniPotentence Resistance] = [3] 
 
 
-[Boosted Stats] = []
-[Boosted Stats] = []
-[Boosted Stats] = []
+[Boosted Stats] = [Max Health]
+[Boosted Stats] = [Ki Control]
+[Boosted Stats] = [Stamina Control]
