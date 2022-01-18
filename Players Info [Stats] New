@@ -223,3 +223,60 @@
 [Boosted Stats] = [Max Health]
 [Boosted Stats] = [Energy Control]
 [Boosted Stats] = [Stamina Control]
+
+---------------------------------------------------------
+
+[User] = [vladtheone9360]
+
+[Mortal Name] = [Vlad] 
+[God Name] = [Ainz ooal goon] 
+
+[Magical Eye Name] = [BloodLust]
+
+[Gender] = [Male]
+[Age] = [14]
+[Status] = [Mortal]
+[Alignment] = [Neutral]
+[Bloodline] = [Special Human] [Demon]
+[Tokens] = [0]
+
+[Power Level] = [5]
+
+[Health Max] = [3]
+[Ki Max] = [2]
+[Max Stamina] = [3]
+[God Ki Max] = [N/A]
+
+[Strength] = [3]
+[Melee Damage] = [3]
+
+[Ki Damage] = [2]
+[God Ki Damage] = [N/A]
+
+[Melee Resistance] = [3]
+[Ki Resistance] = [2]
+[Speed Resistance] = [3]
+
+[Health Recovery] = [3]
+[Ki Recovery] = [2]
+[Stamina Recovery] = [3] 
+
+[Stamina Control] = [3]
+[Energy Control] = [3] 
+
+[Fly Speed] = [3]
+[Base Speed] = [3]
+
+[Omnipotence Timer] = [N/A] 
+[Potency Timer] = [N/A]
+[Magical Eye Timer] = [0.1 Secs]
+
+[OmniPotentence Ki Max] = [N/A] 
+[OmniPotentence Output] = [N/A] 
+[OmniPotentence Drain] = [N/A] 
+[OmniPotentence Resistance] = [3] 
+
+
+[Boosted Stats] = [Strength]
+[Boosted Stats] = [Base Spped]
+[Boosted Stats] = [Stamina Recovery]
