@@ -12,32 +12,32 @@
 [Bloodline] = [Eternal] [Saiyan]
 [Tokens] = [0]
 
-[Power Level] = [5]
+[Power Level] = [14]
 
-[Health Max] = [3]
-[Ki Max] = [3]
-[Max Stamina] = [4]
+[Health Max] = [8]
+[Ki Max] = [6]
+[Max Stamina] = [10]
 [God Ki Max] = [N/A]
 
-[Strength] = [3]
-[Melee Damage] = [3]
+[Strength] = [8]
+[Melee Damage] = [8]
 
-[Ki Damage] = [3]
+[Ki Damage] = [6]
 [God Ki Damage] = [N/A]
 
-[Melee Resistance] = [3]
-[Ki Resistance] = [3]
-[Speed Resistance] = [3]
+[Melee Resistance] = [8]
+[Ki Resistance] = [8]
+[Speed Resistance] = [8]
 
-[Health Recovery] = [3]
-[Ki Recovery] = [3]
-[Stamina Recovery] = [4] 
+[Health Recovery] = [8]
+[Ki Recovery] = [6]
+[Stamina Recovery] = [10] 
 
-[Stamina Control] = [3]
-[Energy Control] = [3] 
+[Stamina Control] = [8]
+[Energy Control] = [6] 
 
 [Fly Speed] = [3]
-[Base Speed] = [4]
+[Base Speed] = [10]
 
 [Omnipotence Timer] = [N/A] 
 [Potency Timer] = [N/A]
@@ -46,7 +46,7 @@
 [OmniPotentence Ki Max] = [N/A] 
 [OmniPotentence Output] = [N/A] 
 [OmniPotentence Drain] = [N/A] 
-[OmniPotentence Resistance] = [3] 
+[OmniPotentence Resistance] = [5] 
 
 
 [Boosted Stats] = [Stamina Recovery]
@@ -69,32 +69,32 @@
 [Bloodline] = [Eternal] [Angel]
 [Tokens] = [0]
 
-[Power Level] = [5]
+[Power Level] = [8]
 
-[Health Max] = [3]
-[Ki Max] = [3]
-[Max Stamina] = [3]
+[Health Max] = [5]
+[Ki Max] = [4]
+[Max Stamina] = [6]
 [God Ki Max] = [N/A]
 
-[Strength] = [4]
-[Melee Damage] = [3]
+[Strength] = [7]
+[Melee Damage] = [6]
 
 [Ki Damage] = [3]
 [God Ki Damage] = [N/A]
 
-[Melee Resistance] = [3]
+[Melee Resistance] = [6]
 [Ki Resistance] = [3]
-[Speed Resistance] = [3]
+[Speed Resistance] = [6]
 
-[Health Recovery] = [3]
+[Health Recovery] = [6]
 [Ki Recovery] = [3]
-[Stamina Recovery] = [3] 
+[Stamina Recovery] = [6] 
 
 [Stamina Control] = [3]
-[Energy Control] = [4] 
+[Energy Control] = [5] 
 
 [Fly Speed] = [3]
-[Base Speed] = [4]
+[Base Speed] = [7]
 
 [Omnipotence Timer] = [N/A] 
 [Potency Timer] = [N/A]
@@ -183,32 +183,32 @@
 [Bloodline] = [Angel] [Special Human]
 [Tokens] = [0]
 
-[Power Level] = [5]
+[Power Level] = [18]
 
-[Health Max] = [4]
+[Health Max] = [14]
 [Ki Max] = [3]
-[Max Stamina] = [3]
+[Max Stamina] = [12]
 [God Ki Max] = [N/A]
 
-[Strength] = [3]
-[Melee Damage] = [3]
+[Strength] = [12]
+[Melee Damage] = [12]
 
-[Ki Damage] = [3]
+[Ki Damage] = [5]
 [God Ki Damage] = [N/A]
 
-[Melee Resistance] = [3]
-[Ki Resistance] = [3]
-[Speed Resistance] = [3]
+[Melee Resistance] = [12]
+[Ki Resistance] = [5]
+[Speed Resistance] = [12]
 
-[Health Recovery] = [3]
-[Ki Recovery] = [3]
-[Stamina Recovery] = [3] 
+[Health Recovery] = [12]
+[Ki Recovery] = [5]
+[Stamina Recovery] = [12] 
 
-[Stamina Control] = [4]
-[Energy Control] = [4] 
+[Stamina Control] = [14]
+[Energy Control] = [8] 
 
-[Fly Speed] = [3]
-[Base Speed] = [3]
+[Fly Speed] = [5]
+[Base Speed] = [12]
 
 [Omnipotence Timer] = [N/A] 
 [Potency Timer] = [N/A]
@@ -221,5 +221,5 @@
 
 
 [Boosted Stats] = [Max Health]
-[Boosted Stats] = [Ki Control]
+[Boosted Stats] = [Energy Control]
 [Boosted Stats] = [Stamina Control]
