@@ -12,36 +12,36 @@
 [Bloodline] = [Eternal] [Saiyan]
 [Tokens] = [0]
 
-[Power Level] = [14]
+[Power Level] = [52,285]
 
-[Health Max] = [8]
-[Ki Max] = [6]
-[Max Stamina] = [10]
+[Health Max] = [50,925]
+[Ki Max] = [50,924]
+[Max Stamina] = [50,928]
 [God Ki Max] = [N/A]
 
-[Strength] = [8]
-[Melee Damage] = [8]
+[Strength] = [51,515]
+[Melee Damage] = [51,515]
 
 [Ki Damage] = [6]
 [God Ki Damage] = [N/A]
 
-[Melee Resistance] = [8]
-[Ki Resistance] = [8]
-[Speed Resistance] = [8]
+[Melee Resistance] = [52,000]
+[Ki Resistance] = [52,000]
+[Speed Resistance] = [52,000]
 
-[Health Recovery] = [8]
-[Ki Recovery] = [6]
-[Stamina Recovery] = [10] 
+[Health Recovery] = [50,649]
+[Ki Recovery] = [50,853]
+[Stamina Recovery] = [50,245] 
 
-[Stamina Control] = [8]
-[Energy Control] = [6] 
+[Stamina Control] = [50,000]
+[Energy Control] = [50,000] 
 
-[Fly Speed] = [3]
-[Base Speed] = [10]
+[Fly Speed] = [50,000]
+[Base Speed] = [50,000]
 
 [Omnipotence Timer] = [N/A] 
 [Potency Timer] = [N/A]
-[Magical Eye Timer] = [0.1 Secs]
+[Magical Eye Timer] = [5 Minutes]
 
 [OmniPotentence Ki Max] = [N/A] 
 [OmniPotentence Output] = [N/A] 
@@ -117,7 +117,7 @@
 [Mortal Name] = [Marcel] 
 [God Name] = [Sun szu]
 
-[Magical Eye Name] = []
+[Magical Eye Name] = [Zero Void]
 
 [Gender] = [Male]
 [Age] = [14]
@@ -126,36 +126,36 @@
 [Bloodline] = [Fallen Angel] [Saiyan]
 [Tokens] = [0]
 
-[Power Level] = [5]
+[Power Level] = [48,000]
 
-[Health Max] = [3]
-[Ki Max] = [3]
-[Max Stamina] = [3]
+[Health Max] = [46,000]
+[Ki Max] = [46,000]
+[Max Stamina] = [46,000]
 [God Ki Max] = [N/A]
 
-[Strength] = [4]
-[Melee Damage] = [3]
+[Strength] = [47,800]
+[Melee Damage] = [47,800]
 
-[Ki Damage] = [3]
+[Ki Damage] = [47,800]
 [God Ki Damage] = [N/A]
 
-[Melee Resistance] = [3]
-[Ki Resistance] = [3]
-[Speed Resistance] = [3]
+[Melee Resistance] = [46,800]
+[Ki Resistance] = [46,800]
+[Speed Resistance] = [46,800]
 
-[Health Recovery] = [4]
-[Ki Recovery] = [3]
-[Stamina Recovery] = [3] 
+[Health Recovery] = [46,200]
+[Ki Recovery] = [46,200]
+[Stamina Recovery] = [46,200] 
 
-[Stamina Control] = [3]
-[Energy Control] = [4] 
+[Stamina Control] = [46,200]
+[Energy Control] = [46,200] 
 
-[Fly Speed] = [3]
-[Base Speed] = [3]
+[Fly Speed] = [46,200]
+[Base Speed] = [46,200]
 
 [Omnipotence Timer] = [N/A] 
 [Potency Timer] = [N/A]
-[Magical Eye Timer] = [0.1 Secs]
+[Magical Eye Timer] = [2 Minutes]
 
 [OmniPotentence Ki Max] = [N/A] 
 [OmniPotentence Output] = [N/A] 
@@ -183,36 +183,36 @@
 [Bloodline] = [Angel] [Special Human]
 [Tokens] = [0]
 
-[Power Level] = [18]
+[Power Level] = [51,800]
 
-[Health Max] = [14]
-[Ki Max] = [3]
-[Max Stamina] = [12]
+[Health Max] = [51,000]
+[Ki Max] = [51,000]
+[Max Stamina] = [51,000]
 [God Ki Max] = [N/A]
 
-[Strength] = [12]
-[Melee Damage] = [12]
+[Strength] = [51,000]
+[Melee Damage] = [51,000]
 
-[Ki Damage] = [5]
+[Ki Damage] = [51,000]
 [God Ki Damage] = [N/A]
 
-[Melee Resistance] = [12]
-[Ki Resistance] = [5]
-[Speed Resistance] = [12]
+[Melee Resistance] = [51,000]
+[Ki Resistance] = [51,000]
+[Speed Resistance] = [51,000]
 
-[Health Recovery] = [12]
-[Ki Recovery] = [5]
-[Stamina Recovery] = [12] 
+[Health Recovery] = [51,000]
+[Ki Recovery] = [51,000]
+[Stamina Recovery] = [51,000] 
 
-[Stamina Control] = [14]
-[Energy Control] = [8] 
+[Stamina Control] = [51,000]
+[Energy Control] = [51,000] 
 
-[Fly Speed] = [5]
-[Base Speed] = [12]
+[Fly Speed] = [51,000]
+[Base Speed] = [51,000]
 
 [Omnipotence Timer] = [N/A] 
 [Potency Timer] = [N/A]
-[Magical Eye Timer] = [0.1 Secs]
+[Magical Eye Timer] = [3 Minutes]
 
 [OmniPotentence Ki Max] = [N/A] 
 [OmniPotentence Output] = [N/A] 
@@ -240,36 +240,36 @@
 [Bloodline] = [Special Human] [Demon]
 [Tokens] = [0]
 
-[Power Level] = [5]
+[Power Level] = [47,000]
 
-[Health Max] = [3]
-[Ki Max] = [2]
-[Max Stamina] = [3]
+[Health Max] = [47,000]
+[Ki Max] = [47,000]
+[Max Stamina] = [47,000]
 [God Ki Max] = [N/A]
 
-[Strength] = [3]
-[Melee Damage] = [3]
+[Strength] = [47,000]
+[Melee Damage] = [47,000]
 
-[Ki Damage] = [2]
+[Ki Damage] = [47,000]
 [God Ki Damage] = [N/A]
 
-[Melee Resistance] = [3]
-[Ki Resistance] = [2]
-[Speed Resistance] = [3]
+[Melee Resistance] = [47,000]
+[Ki Resistance] = [47,000]
+[Speed Resistance] = [47,000]
 
-[Health Recovery] = [3]
-[Ki Recovery] = [2]
-[Stamina Recovery] = [3] 
+[Health Recovery] = [47,000]
+[Ki Recovery] = [47,000]
+[Stamina Recovery] = [47,000] 
 
-[Stamina Control] = [3]
-[Energy Control] = [3] 
+[Stamina Control] = [47,000]
+[Energy Control] = [47,000] 
 
-[Fly Speed] = [3]
-[Base Speed] = [3]
+[Fly Speed] = [47,000]
+[Base Speed] = [47,000]
 
 [Omnipotence Timer] = [N/A] 
 [Potency Timer] = [N/A]
-[Magical Eye Timer] = [0.1 Secs]
+[Magical Eye Timer] = [1 Minute]
 
 [OmniPotentence Ki Max] = [N/A] 
 [OmniPotentence Output] = [N/A] 
